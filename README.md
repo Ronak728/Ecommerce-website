@@ -73,5 +73,3 @@ You are done with the setup now!
 - [ ] Handle concurrencies. 
 
 -----------------------------------
-
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/m607stars">Mayank</a>, <a href="https://github.com/aafiya-h"> Aafiya</a> and <a href="https://github.com/talha1503">Talha</a> </b></h1>
